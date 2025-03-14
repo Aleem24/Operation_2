@@ -1,6 +1,6 @@
 import os
 with open("fruit.txt","w") as f:
-    f.write("I ate strawberry today")
+    f.write("Assalaamualaikummwa-rahmatullahi wa barakaatuh!")
 
 # Extracting words 
 with open("fruit.txt","r") as f:

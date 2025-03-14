@@ -1,1 +1,5 @@
-This is from file 1
+Let's learn some science words now:
+1. Asteroids: Small,Rocky objects that move around a star.
+2. Planetary System: A system that contain a star,planets,asteroids and comets.
+3. Comets: Lumps of ice,dust and rock that move around a star.
+4. Solar System: A Planetary system with the Sun and other eight planets moving around the sun.
